@@ -15,7 +15,7 @@ st.markdown(
     f"""
     <style>
     .stApp {{
-        background-image: url('https://cc.sj-cdn.net/instructor/8s4121m3bfgc-neon-one-academy/courses/3usg21z988tb6/promo-image.1664225355.png'); /* Replace YOUR_IMAGE_URL with the direct link to your image */
+        background-image: url('https://thumbs.dreamstime.com/b/summary-concept-pen-hand-over-white-background-90444537.jpg'); /* Replace YOUR_IMAGE_URL with the direct link to your image */
         background-size: cover;
         background-position: center center;
         background-repeat: no-repeat;
@@ -55,7 +55,7 @@ st.title("Text Summarization App")
 
 # Input field for user to input text
 st.markdown("<h2 style='color: black; font-size: 20px; font-weight: bold;'>Enter Text To Summarize:</h2>", unsafe_allow_html=True)
-text_input = st.text_area("", height=100)
+text_input = st.text_area("", height=200)
 
 # Custom HTML button for summarization
 if st.markdown('<button class="custom-summarize-button">Summarize</button>', unsafe_allow_html=True):

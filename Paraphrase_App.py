@@ -15,7 +15,7 @@ st.markdown(
     f"""
     <style>
     .stApp {{
-        background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fowl.excelsior.edu%2Forc%2Fwhat-to-do-after-reading%2Fparaphrasing%2F&psig=AOvVaw0KM_A4oNruewquL3R3K-R1&ust=1714072453068000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCtrvjH24UDFQAAAAAdAAAAABAX'); /* Replace YOUR_IMAGE_URL with the direct link to your image */
+        background-image: url('https://www.google.com/imgres?q=background%20images%20for%20paraphrasing%20app&imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F05%2F81%2F66%2F46%2F360_F_581664603_FxeXruYlorOpJOSdyV0Z2KuAIAH3L4Fy.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Dparaphrasing&docid=vjbytltdPxopxM&tbnid=oWfBN7SXBgXTwM&vet=12ahUKEwjnnpzOx9uFAxUOFVkFHWc3CT4QM3oECH4QAA..i&w=688&h=360&hcb=2&ved=2ahUKEwjnnpzOx9uFAxUOFVkFHWc3CT4QM3oECH4QAA'); /* Replace YOUR_IMAGE_URL with the direct link to your image */
         background-size: cover;
         background-position: center center;
         background-repeat: no-repeat;

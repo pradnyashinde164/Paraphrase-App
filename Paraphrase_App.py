@@ -21,11 +21,7 @@ st.markdown(
         background-repeat: no-repeat;
         background-attachment: fixed;
     }}
-    </style>
-    """,
-    unsafe_allow_html=True
-)
-
+  
     .stSuccess {{
         background-color: #f0f0f0;
         color: black;

@@ -15,7 +15,7 @@ st.markdown(
     f"""
     <style>
     .stApp {{
-        background-image: url('https://www.google.com/imgres?q=background%20images%20for%20paraphrasing%20app&imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F05%2F81%2F66%2F46%2F360_F_581664603_FxeXruYlorOpJOSdyV0Z2KuAIAH3L4Fy.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Dparaphrasing&docid=vjbytltdPxopxM&tbnid=oWfBN7SXBgXTwM&vet=12ahUKEwjnnpzOx9uFAxUOFVkFHWc3CT4QM3oECH4QAA..i&w=688&h=360&hcb=2&ved=2ahUKEwjnnpzOx9uFAxUOFVkFHWc3CT4QM3oECH4QAA'); /* Replace YOUR_IMAGE_URL with the direct link to your image */
+        background-image: url('https://github.com/pradnyashinde164/Paraphrase-App/blob/main/SummaryImage.png'); /* Replace YOUR_IMAGE_URL with the direct link to your image */
         background-size: cover;
         background-position: center center;
         background-repeat: no-repeat;

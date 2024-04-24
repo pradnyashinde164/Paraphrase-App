@@ -1,3 +1,3 @@
-# Paraphrase-App
+# Summarization App
 
 The Text Summarization App is a tool built with Streamlit, designed to accept user input in the form of textual paragraphs and produce concise, summarized content. Utilizing the Hugging Face's Transformers library, the app employs a machine learning pipeline specifically tuned for summarization tasks. It integrates a simple and user-friendly web interface, enabling users to easily input text and receive a shortened version, focusing on key points and core meanings. To enhance readability, the app includes a function that capitalizes the first letter of each sentence within the summary. The app's aesthetic design is augmented with a light blue background and styled components that enhance the user experience.

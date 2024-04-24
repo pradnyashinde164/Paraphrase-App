@@ -15,12 +15,17 @@ st.markdown(
     f"""
     <style>
     .stApp {{
-        background-color: #add8e6; /* Light blue background */
+        background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fowl.excelsior.edu%2Forc%2Fwhat-to-do-after-reading%2Fparaphrasing%2F&psig=AOvVaw0KM_A4oNruewquL3R3K-R1&ust=1714072453068000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCtrvjH24UDFQAAAAAdAAAAABAX'); /* Replace YOUR_IMAGE_URL with the direct link to your image */
         background-size: cover;
         background-position: center center;
         background-repeat: no-repeat;
         background-attachment: fixed;
     }}
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
     .stSuccess {{
         background-color: #f0f0f0;
         color: black;

@@ -15,7 +15,7 @@ st.markdown(
     f"""
     <style>
     .stApp {{
-        background-image: url('https://img.freepik.com/free-photo/top-view-arrangement-with-gadgets-copy-space_23-2148847745.jpg'); /* Replace YOUR_IMAGE_URL with the direct link to your image */
+        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgqygoEFjUfDbhE6hgZcBYwqplxWmrWhZl92seAUEtyA&s'); /* Replace YOUR_IMAGE_URL with the direct link to your image */
         background-size: cover;
         background-position: center center;
         background-repeat: no-repeat;

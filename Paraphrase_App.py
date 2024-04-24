@@ -15,7 +15,7 @@ st.markdown(
     f"""
     <style>
     .stApp {{
-        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgqygoEFjUfDbhE6hgZcBYwqplxWmrWhZl92seAUEtyA&s'); /* Replace YOUR_IMAGE_URL with the direct link to your image */
+        background-image: url('https://cc.sj-cdn.net/instructor/8s4121m3bfgc-neon-one-academy/courses/3usg21z988tb6/promo-image.1664225355.png'); /* Replace YOUR_IMAGE_URL with the direct link to your image */
         background-size: cover;
         background-position: center center;
         background-repeat: no-repeat;
